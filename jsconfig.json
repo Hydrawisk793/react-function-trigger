@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+        "target": "esnext",
+        "lib": [
+            "esnext",
+            "dom",
+            "dom.iterable"
+        ],
+        "jsx": "react",
+        "baseUrl": "src",
+        "moduleResolution": "node",
+        "module": "commonJS",
+        "strict": true,
+        "forceConsistentCasingInFileNames": true,
+        "allowSyntheticDefaultImports": true
+    },
+    "include": [
+        "src"
+    ]
+}
